@@ -1,2 +1,2 @@
 # git_test
-Testing Git
+This is now my testing repo for git using replit
